@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/DevDen Arch Viz Scotland/Scenes/ArchViz.unity
+- path: Assets/Low Poly Western Saloon/Demo Scene/Demo Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
