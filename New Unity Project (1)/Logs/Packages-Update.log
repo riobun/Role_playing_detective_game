@@ -57,3 +57,13 @@ The following packages were 已添加:
   com.unity.postprocessing@2.3.0
   com.unity.progrids@3.0.3-preview.6
   com.unity.purchasing@2.0.6
+
+=== Sat Jun  5 18:20:27 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were 已添加:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.xr.legacyinputhelpers@2.1.4
