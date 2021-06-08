@@ -1,0 +1,1288 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.9f1c1 (ef65345766d1) revision 15689012'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19042.985; Version 2009; 64bit' Language: 'zh' Physical Memory: 16111 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/40120/Desktop/Role_playing_detective_game/New Unity Project (1)
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+9216
+Successfully changed project path to: C:/Users/40120/Desktop/Role_playing_detective_game/New Unity Project (1)
+C:/Users/40120/Desktop/Role_playing_detective_game/New Unity Project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 192.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1c1 (ef65345766d1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/40120/Desktop/Role_playing_detective_game/New Unity Project (1)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     8055 MB
+    Driver:   27.20.100.8854
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006171 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 192.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.089 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.029484 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  2.687 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1870 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.1 MB.
+System memory in use after: 111.9 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 5.209800 ms (FindLiveObjects: 0.561400 ms CreateObjectMapping: 0.171200 ms MarkObjects: 3.397000 ms  DeleteObjects: 1.076900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/scripts/cameraMove.cs
+  artifactKey: Guid(dbbacd86de3749a49b0259dea040fcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/cameraMove.cs using Guid(dbbacd86de3749a49b0259dea040fcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652bd77269b3621a6addff991ae2011e') in 0.109990 seconds
+  Import took 0.120484 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 24.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 5.437400 ms (FindLiveObjects: 0.367800 ms CreateObjectMapping: 0.162100 ms MarkObjects: 4.104300 ms  DeleteObjects: 0.799900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1751 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.9 MB.
+System memory in use after: 100.7 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 4.739600 ms (FindLiveObjects: 0.643200 ms CreateObjectMapping: 0.209100 ms MarkObjects: 3.365600 ms  DeleteObjects: 0.518500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1011.941707 seconds.
+  path: Assets/scripts/cameraMove.cs
+  artifactKey: Guid(dbbacd86de3749a49b0259dea040fcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/cameraMove.cs using Guid(dbbacd86de3749a49b0259dea040fcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8abc0d61384795fbc9bfbe98066337') in 0.022869 seconds
+  Import took 0.059288 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.685 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1751 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.9 MB.
+System memory in use after: 100.7 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 3.572600 ms (FindLiveObjects: 0.275900 ms CreateObjectMapping: 0.100800 ms MarkObjects: 2.769700 ms  DeleteObjects: 0.424200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.978 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1751 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.0 MB.
+System memory in use after: 100.8 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 2.816300 ms (FindLiveObjects: 0.227300 ms CreateObjectMapping: 0.081200 ms MarkObjects: 2.067700 ms  DeleteObjects: 0.438100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 463.775022 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/grasss_1.fbx
+  artifactKey: Guid(5726b02d005d93d4c8453d7403492c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/grasss_1.fbx using Guid(5726b02d005d93d4c8453d7403492c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9f9a84e338887f0881e2e0626e3574') in 0.350594 seconds
+  Import took 0.358334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Lights_MD.fbx
+  artifactKey: Guid(4b2d4127bd796124e8d2ac5440451fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Lights_MD.fbx using Guid(4b2d4127bd796124e8d2ac5440451fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7766ccb4fe55499ff406bae2f07fc370') in 0.261076 seconds
+  Import took 0.266710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/toilet_accesories.fbx
+  artifactKey: Guid(1a23d269dfaef4545a40580882de5b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/toilet_accesories.fbx using Guid(1a23d269dfaef4545a40580882de5b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73509f604f448d98f727dba8bbc64054') in 0.591499 seconds
+  Import took 0.597158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Lights_MD.fbx
+  artifactKey: Guid(4b2d4127bd796124e8d2ac5440451fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Lights_MD.fbx using Guid(4b2d4127bd796124e8d2ac5440451fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7766ccb4fe55499ff406bae2f07fc370') in 0.220391 seconds
+  Import took 0.227644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/ground.fbx
+  artifactKey: Guid(f3bea8fcb6595ab44b5bcaa51a477bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/ground.fbx using Guid(f3bea8fcb6595ab44b5bcaa51a477bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb916a1ffca706b7f60cc1296b760bd9') in 0.038733 seconds
+  Import took 0.043134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/grasss_1.fbx
+  artifactKey: Guid(5726b02d005d93d4c8453d7403492c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/grasss_1.fbx using Guid(5726b02d005d93d4c8453d7403492c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9f9a84e338887f0881e2e0626e3574') in 0.058077 seconds
+  Import took 0.065731 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1751 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.3 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.622000 ms (FindLiveObjects: 0.215200 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.979800 ms  DeleteObjects: 0.349800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1751 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.3 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.710600 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.076400 ms MarkObjects: 2.007800 ms  DeleteObjects: 0.394400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 597.089170 seconds.
+  path: Assets/scripts/groudCollision.cs
+  artifactKey: Guid(d5b8bcf9375151a4ca5470753a65da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/groudCollision.cs using Guid(d5b8bcf9375151a4ca5470753a65da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63466c2e3cf4804bb1b245e92e62360') in 0.015138 seconds
+  Import took 0.020380 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.183 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 2.692700 ms (FindLiveObjects: 0.227000 ms CreateObjectMapping: 0.068300 ms MarkObjects: 1.961400 ms  DeleteObjects: 0.434800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.582258 seconds.
+  path: Assets/scripts/groundCollision.cs
+  artifactKey: Guid(d5b8bcf9375151a4ca5470753a65da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/groundCollision.cs using Guid(d5b8bcf9375151a4ca5470753a65da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8188cc7e128e737b494948f78ec631') in 0.018423 seconds
+  Import took 0.024262 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009834 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2371.
+Total: 2.999800 ms (FindLiveObjects: 0.346800 ms CreateObjectMapping: 0.209500 ms MarkObjects: 2.060800 ms  DeleteObjects: 0.381300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009567 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2374.
+Total: 3.280900 ms (FindLiveObjects: 0.314600 ms CreateObjectMapping: 0.214200 ms MarkObjects: 2.111100 ms  DeleteObjects: 0.639500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009643 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.152 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2377.
+Total: 3.111700 ms (FindLiveObjects: 0.371700 ms CreateObjectMapping: 0.140400 ms MarkObjects: 2.144500 ms  DeleteObjects: 0.453900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1010.039364 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Textures/Color Correction Texture.png
+  artifactKey: Guid(ec3696f72c579dd4e85f245f75368a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Textures/Color Correction Texture.png using Guid(ec3696f72c579dd4e85f245f75368a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf544233d75cd1336cb3ed5a55f3e5b') in 0.230419 seconds
+  Import took 0.237774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Textures/Props Texture.png
+  artifactKey: Guid(d098fe37eb74c434e966165adf3d6d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Textures/Props Texture.png using Guid(d098fe37eb74c434e966165adf3d6d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53ad968a09e0c8811497fc5ad516113') in 0.024537 seconds
+  Import took 0.030223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Textures/Color Correction Texture.png
+  artifactKey: Guid(ec3696f72c579dd4e85f245f75368a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Textures/Color Correction Texture.png using Guid(ec3696f72c579dd4e85f245f75368a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf544233d75cd1336cb3ed5a55f3e5b') in 0.065886 seconds
+  Import took 0.070899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Textures/Props Texture.png
+  artifactKey: Guid(d098fe37eb74c434e966165adf3d6d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Textures/Props Texture.png using Guid(d098fe37eb74c434e966165adf3d6d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53ad968a09e0c8811497fc5ad516113') in 0.012349 seconds
+  Import took 0.018841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Textures/Texture 1.png
+  artifactKey: Guid(4f992b0795e5b7c4a991e5bddaf2677e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Textures/Texture 1.png using Guid(4f992b0795e5b7c4a991e5bddaf2677e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4387ed21f96c381d7d7833509193f2') in 0.034245 seconds
+  Import took 0.040934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Textures/Texture 2.png
+  artifactKey: Guid(9f3e655c17ae5574d8fa1e5963cd4870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Textures/Texture 2.png using Guid(9f3e655c17ae5574d8fa1e5963cd4870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df378e264ca79b66f1f03f15763908a') in 0.051752 seconds
+  Import took 0.058693 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.031513 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  3.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.6 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2382.
+Total: 7.974100 ms (FindLiveObjects: 0.483600 ms CreateObjectMapping: 0.177400 ms MarkObjects: 6.483100 ms  DeleteObjects: 0.825900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 394.138208 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/diagnostics.fbx
+  artifactKey: Guid(e8328baf0603fb747b8605e2a1758b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/diagnostics.fbx using Guid(e8328baf0603fb747b8605e2a1758b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71a1eeff3e4d8d3e00165b443794683') in 2.246767 seconds
+  Import took 2.260297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000686 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Equipment_MD_01.fbx
+  artifactKey: Guid(7e01c3c130ef8a5409f3858bf9bf4236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Equipment_MD_01.fbx using Guid(7e01c3c130ef8a5409f3858bf9bf4236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38867e15f8069255d0452ade8e2133e7') in 2.109784 seconds
+  Import took 2.122275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/balcony.fbx
+  artifactKey: Guid(a27e0bd21943f7c4c8efbc5b88abaf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/balcony.fbx using Guid(a27e0bd21943f7c4c8efbc5b88abaf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f31342e437a8c2be523ac37d1e38d11') in 4.471279 seconds
+  Import took 4.486554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000724 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/lamp.fbx
+  artifactKey: Guid(693cb6a41bc2205409161bed0f51fdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/lamp.fbx using Guid(693cb6a41bc2205409161bed0f51fdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95f43cc158243492ea339db92375066') in 0.126277 seconds
+  Import took 0.132632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/cup.fbx
+  artifactKey: Guid(8332c80df391af54a8a915addc602803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/cup.fbx using Guid(8332c80df391af54a8a915addc602803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae3c812be0dc74cc725bcf5e32e3769') in 0.103567 seconds
+  Import took 0.112669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/saloon_main.fbx
+  artifactKey: Guid(7b23fcb368491cf4ca8fcd85d12bb784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/saloon_main.fbx using Guid(7b23fcb368491cf4ca8fcd85d12bb784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87436ebd8e7dd559d9038458f8b916c5') in 0.939176 seconds
+  Import took 0.947363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Models/props/table.fbx
+  artifactKey: Guid(58cf8ac42b2298e4592a0da8e4860bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/table.fbx using Guid(58cf8ac42b2298e4592a0da8e4860bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e29feb75e57fa3c94b05e293d59c95f') in 0.104021 seconds
+  Import took 0.115163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/dinning_chair.fbx
+  artifactKey: Guid(553ffc2d668ea8f459d69e550553e135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/dinning_chair.fbx using Guid(553ffc2d668ea8f459d69e550553e135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77f10f93dcac62e7605a44c2c26b405') in 0.303720 seconds
+  Import took 0.315024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/cup_filled.fbx
+  artifactKey: Guid(48daf1953d703084098600ea2faf53c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/cup_filled.fbx using Guid(48daf1953d703084098600ea2faf53c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846053217a4007194aab8a77e19a9942') in 0.135435 seconds
+  Import took 0.143186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/bar_stool.fbx
+  artifactKey: Guid(70c48ec76d9e6f3409f7ea554f1299d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/bar_stool.fbx using Guid(70c48ec76d9e6f3409f7ea554f1299d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0010549105f4e054ae9eacabf8214265') in 0.082841 seconds
+  Import took 0.090752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Soja Exiles/SE Basic Assets/Models/Build Kits/Build Kit Interior - 03.fbx
+  artifactKey: Guid(6b9edcf61c53ecc41b01349ec645716c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/SE Basic Assets/Models/Build Kits/Build Kit Interior - 03.fbx using Guid(6b9edcf61c53ecc41b01349ec645716c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c430890a1ea6376f0a1508bb172a317') in 0.191162 seconds
+  Import took 0.199287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/CHair2.fbx
+  artifactKey: Guid(c3f7617c4f55f634e9fd0a90acf38ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/CHair2.fbx using Guid(c3f7617c4f55f634e9fd0a90acf38ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ec43aac1eb5239f5489153ee324242') in 0.217726 seconds
+  Import took 0.227575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Modular Wall Cabinet.fbx
+  artifactKey: Guid(5a1710e01a2c88242a4499f68198d1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Modular Wall Cabinet.fbx using Guid(5a1710e01a2c88242a4499f68198d1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bed558dd151c001ccfe23a0d8e78d9') in 0.440998 seconds
+  Import took 0.450317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/table.fbx
+  artifactKey: Guid(1d5df8e5796509b4fb161926ac857406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/table.fbx using Guid(1d5df8e5796509b4fb161926ac857406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5dd81ec77e23254a8d25e5e969d02f8') in 0.124434 seconds
+  Import took 0.132385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/kitchen_2.fbx
+  artifactKey: Guid(47ad5b770e454a146bc224c43a690f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/kitchen_2.fbx using Guid(47ad5b770e454a146bc224c43a690f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e13c996ac38437d8ba59816d325e953') in 0.814950 seconds
+  Import took 0.823809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Enviro_MD_01.fbx
+  artifactKey: Guid(c6569002799da4044ba37a78975afe60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Enviro_MD_01.fbx using Guid(c6569002799da4044ba37a78975afe60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86a9eefca2471f7661a10acc242781a') in 1.869471 seconds
+  Import took 1.880104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000779 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bed_1.fbx
+  artifactKey: Guid(17833168c1a51de4fb2f3083e6430d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bed_1.fbx using Guid(17833168c1a51de4fb2f3083e6430d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be5e29ef5ae717501ee8db68e8e90cf') in 0.540445 seconds
+  Import took 0.556489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/door.fbx
+  artifactKey: Guid(472c70e45ce20dc4cbfafea4fdf83224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/door.fbx using Guid(472c70e45ce20dc4cbfafea4fdf83224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307eef58815d2255adac2fad046a941e') in 0.141971 seconds
+  Import took 0.150346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/balcony_mat.fbx
+  artifactKey: Guid(ce43ae92369313a4db421a6f400bc57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/balcony_mat.fbx using Guid(ce43ae92369313a4db421a6f400bc57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9f5eab4f0cb43ba8208a5d56a3acca') in 0.183393 seconds
+  Import took 0.193896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Models/props/shelf.fbx
+  artifactKey: Guid(6620c10331eecca4981d07e713416ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/shelf.fbx using Guid(6620c10331eecca4981d07e713416ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7ebb83f97a9f95f888e1823b132e15') in 0.081818 seconds
+  Import took 0.087293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/TOASTER.obj
+  artifactKey: Guid(35fae08d00cdc8c40a63ec5ebc62d54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/TOASTER.obj using Guid(35fae08d00cdc8c40a63ec5ebc62d54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88147c0db9a30424fb78e15ba2e38c9') in 0.118080 seconds
+  Import took 0.126103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/side_piece.fbx
+  artifactKey: Guid(fe5209699dc52924cb69fe0b872eae4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/side_piece.fbx using Guid(fe5209699dc52924cb69fe0b872eae4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c532ad84d6629b17125b106e04f76a2') in 1.750332 seconds
+  Import took 1.796604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000871 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/barrel_1.fbx
+  artifactKey: Guid(740f117a81b4680468eb8f6c30687c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/barrel_1.fbx using Guid(740f117a81b4680468eb8f6c30687c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e022484c025f4329621be6ca467d40') in 0.109564 seconds
+  Import took 0.117717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/poker_table.fbx
+  artifactKey: Guid(0ee20d8ea7d914a4ba730f59fe59c977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/poker_table.fbx using Guid(0ee20d8ea7d914a4ba730f59fe59c977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff20894fc4579700b4f46bc5c79fe11') in 0.090618 seconds
+  Import took 0.098692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/TV.FBX
+  artifactKey: Guid(1060d5b6b2a9fdb4d9d7e7fde8f4ea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/TV.FBX using Guid(1060d5b6b2a9fdb4d9d7e7fde8f4ea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce467c7f411b2d261ed43f8ed4b70c4f') in 0.060449 seconds
+  Import took 0.067088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Props_MD_02.fbx
+  artifactKey: Guid(218e68caea70abc45803acb387555931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Props_MD_02.fbx using Guid(218e68caea70abc45803acb387555931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60923f9c30ac08f0f11f73d7527dbbe9') in 1.962414 seconds
+  Import took 1.976152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/stone_2.fbx
+  artifactKey: Guid(cdbfa5ca8135cce4ba428f2dc687a453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/stone_2.fbx using Guid(cdbfa5ca8135cce4ba428f2dc687a453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d22e074d747feba497549e372aedfc') in 0.115204 seconds
+  Import took 0.126105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Office_MD.fbx
+  artifactKey: Guid(196b4f1a31ec78c48b890bf76d5db9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Office_MD.fbx using Guid(196b4f1a31ec78c48b890bf76d5db9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca1e502ae2543d104a4a60c0a67c754') in 2.154344 seconds
+  Import took 2.167293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/lamp.fbx
+  artifactKey: Guid(29688a60d52ce5749ae16ca92208df37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/lamp.fbx using Guid(29688a60d52ce5749ae16ca92208df37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9832c2af1dd44d7a338e5ff330c9b5') in 0.114273 seconds
+  Import took 0.121869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Painting.fbx
+  artifactKey: Guid(27b4045e9d44110428f91ffc9297b5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Painting.fbx using Guid(27b4045e9d44110428f91ffc9297b5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4916f9b7c76ec032db818bfda4f057ac') in 0.086032 seconds
+  Import took 0.096241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/kitchen_top.fbx
+  artifactKey: Guid(27ddc70cefba4cc458cd241b184ffd67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/kitchen_top.fbx using Guid(27ddc70cefba4cc458cd241b184ffd67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3882113912c837e5923721a40db06772') in 1.769929 seconds
+  Import took 1.785152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/Tea Table.fbx
+  artifactKey: Guid(bed2106013f22ca48a25b8eb74ec3a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/Tea Table.fbx using Guid(bed2106013f22ca48a25b8eb74ec3a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5b5e9a08fede85caf33d30ad2c653b') in 0.239991 seconds
+  Import took 0.249397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/VaseFloor02_1.FBX
+  artifactKey: Guid(7a42a3aa9aded4b4bbe3dc01dc0805cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/VaseFloor02_1.FBX using Guid(7a42a3aa9aded4b4bbe3dc01dc0805cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4527088b8e4dc72c59a610387060ce') in 0.152827 seconds
+  Import took 0.160805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000809 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/stone_1.fbx
+  artifactKey: Guid(aac8e9ab7caffd24c85cc2394e605549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/stone_1.fbx using Guid(aac8e9ab7caffd24c85cc2394e605549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fb7a69890c34101b9fc76fd549ead2') in 0.068476 seconds
+  Import took 0.076562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Corner Wall Cabinet.fbx
+  artifactKey: Guid(5a3b2c9f5dcc95944b5769d838a747e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Corner Wall Cabinet.fbx using Guid(5a3b2c9f5dcc95944b5769d838a747e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebb00701ce7c7028545a564ed0861f1') in 0.409515 seconds
+  Import took 0.418279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Lights_MD_02.fbx
+  artifactKey: Guid(f72153497cdc8c94f8357df8e6c261db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Lights_MD_02.fbx using Guid(f72153497cdc8c94f8357df8e6c261db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820031beef4ca30111f33eea906d5a19') in 0.153809 seconds
+  Import took 0.161286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000715 seconds.
+  path: Assets/Soja Exiles/SE Basic Assets/Models/Build Kits/Build Kit Interior - 04.fbx
+  artifactKey: Guid(fb5d8fe94bfe80a4788fa4cbf4c91d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/SE Basic Assets/Models/Build Kits/Build Kit Interior - 04.fbx using Guid(fb5d8fe94bfe80a4788fa4cbf4c91d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b868c8b2341931e99c3c1ec9f3eb93c4') in 0.225478 seconds
+  Import took 0.234751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/Cutlery.obj
+  artifactKey: Guid(ae7dbd3d3ea7e0c418e25d2b31428eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/Cutlery.obj using Guid(ae7dbd3d3ea7e0c418e25d2b31428eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca2bc385f82562c5dcb1ba313889e59') in 0.326448 seconds
+  Import took 0.333609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/poker_chip_red.fbx
+  artifactKey: Guid(64f6244a7ee8ddf468fb01a8de353213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/poker_chip_red.fbx using Guid(64f6244a7ee8ddf468fb01a8de353213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bfdfe35b7329cd20092110f55b68955') in 0.106787 seconds
+  Import took 0.117411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/Soja Exiles/SE Basic Assets/Models/office chair.fbx
+  artifactKey: Guid(0156872a951ba6e44a3a8596040789c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/SE Basic Assets/Models/office chair.fbx using Guid(0156872a951ba6e44a3a8596040789c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1397e923dc4b4ad67d946b953ba3c68') in 0.406520 seconds
+  Import took 0.415817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Soja Exiles/SE Basic Assets/Models/stairs.fbx
+  artifactKey: Guid(f459d115ee76d35448d04fefd2442eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/SE Basic Assets/Models/stairs.fbx using Guid(f459d115ee76d35448d04fefd2442eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fb002951925c898b35483e64d50ded') in 0.101292 seconds
+  Import took 0.109120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Props_MD_01.fbx
+  artifactKey: Guid(df572ea1fc1883947b6100118981ccb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Props_MD_01.fbx using Guid(df572ea1fc1883947b6100118981ccb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67f24004222e7f507e1db96c73ac2a5') in 0.877097 seconds
+  Import took 0.884063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Modern Liquor Cabinet.fbx
+  artifactKey: Guid(fe73d14489f153e4485e26243ed30d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/Modern Liquor Cabinet.fbx using Guid(fe73d14489f153e4485e26243ed30d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5d00dded3c9f6766bb60cbc2c70f7e') in 0.237721 seconds
+  Import took 0.242047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Models/wall/door_01.fbx
+  artifactKey: Guid(02bb5bf2550e9de4fba1c135aaef0200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/wall/door_01.fbx using Guid(02bb5bf2550e9de4fba1c135aaef0200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f2eb1235251c11bc7654e5b017e1e4') in 0.115793 seconds
+  Import took 0.121129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/ashtray_1.fbx
+  artifactKey: Guid(21b4c76faa73f2e4391422b55c34eb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/ashtray_1.fbx using Guid(21b4c76faa73f2e4391422b55c34eb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9ce3ecf91d88aa37c1cfb89ea03fb3') in 0.071671 seconds
+  Import took 0.077898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/ashtray_2.fbx
+  artifactKey: Guid(0e799e11bd73cb94b95c5eafe8221b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/ashtray_2.fbx using Guid(0e799e11bd73cb94b95c5eafe8221b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5db0f82ca82cd4405be045b9b1aaac') in 0.073052 seconds
+  Import took 0.078255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/table 1.fbx
+  artifactKey: Guid(08b0f1924cf8e9b48ab17520d8a89aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/table 1.fbx using Guid(08b0f1924cf8e9b48ab17520d8a89aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e816935987df41aa9fee9bf12ea55a2') in 0.073634 seconds
+  Import took 0.078368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.049417 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/barrel_2.fbx
+  artifactKey: Guid(458636aa51981a2428f058fef34ab2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/barrel_2.fbx using Guid(458636aa51981a2428f058fef34ab2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e975c71d4eb74e1727e5a676f5d1a515') in 0.055416 seconds
+  Import took 0.060916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/barrel_3.fbx
+  artifactKey: Guid(09e467185fce2f64198fd17e923283da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/barrel_3.fbx using Guid(09e467185fce2f64198fd17e923283da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81c88e2b432488a382f9b49cea32d13') in 0.093659 seconds
+  Import took 0.097657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005568 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/barrel_3.fbx
+  artifactKey: Guid(09e467185fce2f64198fd17e923283da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/barrel_3.fbx using Guid(09e467185fce2f64198fd17e923283da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81c88e2b432488a382f9b49cea32d13') in 0.084061 seconds
+  Import took 0.088919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/barrel_stand.fbx
+  artifactKey: Guid(246c80e1c630c4c45bb2875f6d804663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/barrel_stand.fbx using Guid(246c80e1c630c4c45bb2875f6d804663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee061fbda577d33e16ba7275027a60d') in 0.084044 seconds
+  Import took 0.088735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.378494 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/BookSet2.FBX
+  artifactKey: Guid(6dcd5fec89057b847994a19e6aff052d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/BookSet2.FBX using Guid(6dcd5fec89057b847994a19e6aff052d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f377e80ef956918e1086ff63eb7c8a88') in 0.039581 seconds
+  Import took 0.044740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Furniture_ges1/printer/printer.FBX
+  artifactKey: Guid(d734e0f1e8152164f912667b484f1bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Furniture_ges1/printer/printer.FBX using Guid(d734e0f1e8152164f912667b484f1bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e467903b2c11e1110e54c326dc3967') in 0.104377 seconds
+  Import took 0.108751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/toilet.FBX
+  artifactKey: Guid(0363ee14acadf034e9d608292e78f3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/toilet.FBX using Guid(0363ee14acadf034e9d608292e78f3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88b0c051da6a889aa45d2e87a472416') in 0.143085 seconds
+  Import took 0.147951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/Mirror02_1.FBX
+  artifactKey: Guid(d8ee6730ccbf6e84ba43b832a94997db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/Mirror02_1.FBX using Guid(d8ee6730ccbf6e84ba43b832a94997db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1baec7c1c8862f713da98f7af9e03cf') in 0.096918 seconds
+  Import took 0.101292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/airconditioner.FBX
+  artifactKey: Guid(cf951488e1ca04e4a8b7ac9075aeff05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/airconditioner.FBX using Guid(cf951488e1ca04e4a8b7ac9075aeff05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653342235db74394debd651fc736100a') in 0.085058 seconds
+  Import took 0.090357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/kitchen_bottom.fbx
+  artifactKey: Guid(5953c93a3133177479d85c596497a194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/kitchen_bottom.fbx using Guid(5953c93a3133177479d85c596497a194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a08409de59c13d22afb6650280c1657') in 1.003532 seconds
+  Import took 1.019294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/window.fbx
+  artifactKey: Guid(fc52b793d12d2364b9fcb01ea622923e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/window.fbx using Guid(fc52b793d12d2364b9fcb01ea622923e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6307760517c07003d7d9977431bba399') in 0.140613 seconds
+  Import took 0.145698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Models/props/writing_board.fbx
+  artifactKey: Guid(968123130adc6ca489ca18c940488a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/writing_board.fbx using Guid(968123130adc6ca489ca18c940488a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c90a404c386e60f3691e5cec345c386a') in 0.095857 seconds
+  Import took 0.100114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Soja Exiles/SE Basic Assets/Models/Table.fbx
+  artifactKey: Guid(789ec6c009ff3ac4e932d2fc850ca16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/SE Basic Assets/Models/Table.fbx using Guid(789ec6c009ff3ac4e932d2fc850ca16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1f42021360bf4e5071e30532a78bf4') in 0.189067 seconds
+  Import took 0.192994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Models/props/scalp.fbx
+  artifactKey: Guid(0debffa88d0f634479ff49c3a89bad3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/scalp.fbx using Guid(0debffa88d0f634479ff49c3a89bad3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfdaa45a13f86b1bf717e7bb5725308b') in 0.099413 seconds
+  Import took 0.103699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bathroom_wash.fbx
+  artifactKey: Guid(7877d90a28643d84292ab67b9e53f362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bathroom_wash.fbx using Guid(7877d90a28643d84292ab67b9e53f362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd37a6326d1d8844e0b1d37793e92fbb') in 0.309935 seconds
+  Import took 0.314300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/wine_bottle_1.fbx
+  artifactKey: Guid(d7df9829007739a4a9d09bed95734190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/wine_bottle_1.fbx using Guid(d7df9829007739a4a9d09bed95734190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5bb64dada68f023c546bfb32825119') in 0.038070 seconds
+  Import took 0.044325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Models/props/brain.fbx
+  artifactKey: Guid(1715ae5ba3dc1114aa152df0dff9b4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/brain.fbx using Guid(1715ae5ba3dc1114aa152df0dff9b4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f45748b7a2185e7b7aa809ca15e0c0') in 0.065354 seconds
+  Import took 0.071222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/mug.fbx
+  artifactKey: Guid(fb1c4fae2fb929f439d88b5076f4720b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/mug.fbx using Guid(fb1c4fae2fb929f439d88b5076f4720b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb741a1ec080d66639da529d207817f8') in 0.087783 seconds
+  Import took 0.093500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/frifge.fbx
+  artifactKey: Guid(2a45774a416f6214f85ef24206f73581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/frifge.fbx using Guid(2a45774a416f6214f85ef24206f73581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4a61912d718477c35ddc0b8f24fe2f') in 0.225734 seconds
+  Import took 0.232794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bathroom_shelf.fbx
+  artifactKey: Guid(7a840e4c7b83ea345a90c10109b270f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bathroom_shelf.fbx using Guid(7a840e4c7b83ea345a90c10109b270f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d389bfcf98768268fc4a72a59bf335') in 0.117965 seconds
+  Import took 0.121830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Models/wall/wall_piece03.fbx
+  artifactKey: Guid(9554a543d125890489458687ac5c2129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/wall/wall_piece03.fbx using Guid(9554a543d125890489458687ac5c2129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2a4856091ce81db1a636d5a32afbf1') in 0.096703 seconds
+  Import took 0.100910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/books.FBX
+  artifactKey: Guid(c3bd1f92f6c766841bf2fe0a1b78f261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/books.FBX using Guid(c3bd1f92f6c766841bf2fe0a1b78f261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8fc7f6b713274ffa643c8764c03c44') in 0.319899 seconds
+  Import took 0.324377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Furniture_ges1/tumba_fur/tumba_fur.FBX
+  artifactKey: Guid(025f4e283fb576840aa96c4bcdb97ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Furniture_ges1/tumba_fur/tumba_fur.FBX using Guid(025f4e283fb576840aa96c4bcdb97ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5728d9cea1df8f76debef93856af16') in 0.102131 seconds
+  Import took 0.106542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/mug-tree.fbx
+  artifactKey: Guid(eeeabd8e5fefc874fb98872f67c9fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/mug-tree.fbx using Guid(eeeabd8e5fefc874fb98872f67c9fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ce85063d49a86f51e01b92d7a2f65c') in 0.119569 seconds
+  Import took 0.125258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bathroom_wall.fbx
+  artifactKey: Guid(eb156a3b557260742b82a9e258564e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bathroom_wall.fbx using Guid(eb156a3b557260742b82a9e258564e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c898337e5e3b5ee134f014e4bd9cb1') in 0.121257 seconds
+  Import took 0.125979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Models/wall/wall_piece_drawer_01.fbx
+  artifactKey: Guid(5e400555fdb6893428d8e6fc7f6a64dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/wall/wall_piece_drawer_01.fbx using Guid(5e400555fdb6893428d8e6fc7f6a64dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c74d3c0d343778ec1518a0e8678e53') in 0.094408 seconds
+  Import took 0.098427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/stone_5.fbx
+  artifactKey: Guid(7f2f3705a9d752847a67f76ddd31ac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/stone_5.fbx using Guid(7f2f3705a9d752847a67f76ddd31ac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe716476182d938c2d064d40e0b9740b') in 0.080931 seconds
+  Import took 0.086821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bedside_lamp1.fbx
+  artifactKey: Guid(1185fd0711949ee45be56a28ae19b647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bedside_lamp1.fbx using Guid(1185fd0711949ee45be56a28ae19b647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef8fc8da6df96c3d89cfac361713033') in 0.487397 seconds
+  Import took 0.492190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine thin glass W Liquid.fbx
+  artifactKey: Guid(28ca9505d52f64b408920ffcf4831bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine thin glass W Liquid.fbx using Guid(28ca9505d52f64b408920ffcf4831bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eff1c69487a25ab83425a81ab2e2065') in 0.113130 seconds
+  Import took 0.117403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Models/props/notebook.fbx
+  artifactKey: Guid(7aedcf377a2595a40bcc0f5331df325e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/notebook.fbx using Guid(7aedcf377a2595a40bcc0f5331df325e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6682381d23718df3b5282ad7acbd2a') in 0.086935 seconds
+  Import took 0.091505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Models/wall/wall_corner02.fbx
+  artifactKey: Guid(314f923f0cf37634c82f641025306c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/wall/wall_corner02.fbx using Guid(314f923f0cf37634c82f641025306c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e194a4435e3aa6125e07783ce237c9') in 0.075913 seconds
+  Import took 0.082794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine bottle 04_LP.fbx
+  artifactKey: Guid(dc3a1db86c73bb14f8ebd6e2953b7e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine bottle 04_LP.fbx using Guid(dc3a1db86c73bb14f8ebd6e2953b7e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f83079ee2d32ae915807bcc608ae25') in 0.115458 seconds
+  Import took 0.119734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Furniture_ges1/sek/sek1.FBX
+  artifactKey: Guid(c7b7ca10b0f0c8746a0a8d66fb10fa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Furniture_ges1/sek/sek1.FBX using Guid(c7b7ca10b0f0c8746a0a8d66fb10fa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236950df84377cab72a4a7cfd14cfe3c') in 0.118608 seconds
+  Import took 0.124311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/laptop.FBX
+  artifactKey: Guid(35e0e336b5a71eb42b8a66710cf30545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/laptop.FBX using Guid(35e0e336b5a71eb42b8a66710cf30545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7a57e69c36a7c0416c973571aca2f2') in 0.280596 seconds
+  Import took 0.285768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Models/props/light_switch.fbx
+  artifactKey: Guid(792b4f3dd7e4cc44886e24bfc63e3ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/light_switch.fbx using Guid(792b4f3dd7e4cc44886e24bfc63e3ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c441a58c93e68fb3e4717501ef87493f') in 0.098106 seconds
+  Import took 0.103143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/whiskey_bottle_2.fbx
+  artifactKey: Guid(feead0c2caffae64ea856e90ee3f7ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/whiskey_bottle_2.fbx using Guid(feead0c2caffae64ea856e90ee3f7ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8feb8da6abb527773c3456ca64612eca') in 0.057070 seconds
+  Import took 0.061696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/stone_4.fbx
+  artifactKey: Guid(ecfffe4432c1f234bbe639551213d563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/stone_4.fbx using Guid(ecfffe4432c1f234bbe639551213d563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544f9eece804522fbe42d573f4ce621b') in 0.098780 seconds
+  Import took 0.103622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bowl.fbx
+  artifactKey: Guid(a97e41ecdcb3e18449d813796b7cb3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bowl.fbx using Guid(a97e41ecdcb3e18449d813796b7cb3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5bd811e63ed5176ae9b64165a58f29') in 0.547014 seconds
+  Import took 0.552108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/books_seperae.fbx
+  artifactKey: Guid(fe3abcf47d965954683b4a41f5524204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/books_seperae.fbx using Guid(fe3abcf47d965954683b4a41f5524204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f82b527e3165b00647570fb3b9f9d7') in 0.350558 seconds
+  Import took 0.356042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine bottle 04.fbx
+  artifactKey: Guid(4f12aeb58b5d6404e813007e40832e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine bottle 04.fbx using Guid(4f12aeb58b5d6404e813007e40832e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bac82a7f546ecc335b84ee2e3ca6aff') in 0.127300 seconds
+  Import took 0.131648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Models/wall/wall_piece01.fbx
+  artifactKey: Guid(5ad9ee1b19ec3bf4cb86b01d9d07cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/wall/wall_piece01.fbx using Guid(5ad9ee1b19ec3bf4cb86b01d9d07cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a94da438ed462f9955a63381c30967') in 0.094392 seconds
+  Import took 0.098601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Models/props/organ_scale.fbx
+  artifactKey: Guid(b1454f4659db5eb46a25e8542c8144ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/organ_scale.fbx using Guid(b1454f4659db5eb46a25e8542c8144ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a701e5da3ff23512943ae2f911ab5c5') in 0.081437 seconds
+  Import took 0.086761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Models/wall/wall_piece02.fbx
+  artifactKey: Guid(6f3092583c7e91a448323483ded1851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/wall/wall_piece02.fbx using Guid(6f3092583c7e91a448323483ded1851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e28bc520ca590172052f492d838f197') in 0.077559 seconds
+  Import took 0.082604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Furniture_ges1/bed1/bed1.FBX
+  artifactKey: Guid(c98458455be827c41a2536fc1affd2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Furniture_ges1/bed1/bed1.FBX using Guid(c98458455be827c41a2536fc1affd2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cab0e87d5ffd423c9ea6826f6bd490') in 0.089471 seconds
+  Import took 0.094738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bathroom_cabin.fbx
+  artifactKey: Guid(805de25975a5dea43864310560aa31a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bathroom_cabin.fbx using Guid(805de25975a5dea43864310560aa31a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4925d3fa6ec5cfdca07b4a9e8b4dee') in 0.177354 seconds
+  Import took 0.181725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/magazine1.FBX
+  artifactKey: Guid(11ee526505cdfe143b71532eb69f6a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/magazine1.FBX using Guid(11ee526505cdfe143b71532eb69f6a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784d655c1c4ffd6d06159b13d6dce0fd') in 0.099740 seconds
+  Import took 0.104335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Props_MD_03.fbx
+  artifactKey: Guid(b2a5649b688066243a3b1ddb7c0a048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Props_MD_03.fbx using Guid(b2a5649b688066243a3b1ddb7c0a048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf21fe88df3f0174c31c83c6361994bc') in 0.168524 seconds
+  Import took 0.173693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Soja Exiles/Hospital Medical Office Modular/Models/Molding_MD_01.fbx
+  artifactKey: Guid(e0cd19f7dca525549814cdb78cbfdfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Hospital Medical Office Modular/Models/Molding_MD_01.fbx using Guid(e0cd19f7dca525549814cdb78cbfdfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2987ef85d0aeac5d8497e29064d968c9') in 0.307175 seconds
+  Import took 0.312935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/wine_bottle_2.fbx
+  artifactKey: Guid(71f7ca134ec85f34881fcee5a98abdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/wine_bottle_2.fbx using Guid(71f7ca134ec85f34881fcee5a98abdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23bc406ba0d8e5c3765b30cfd217d6ea') in 0.090767 seconds
+  Import took 0.097517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine thin glass.fbx
+  artifactKey: Guid(09cb81f6ddeeb3046979371d041373b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Soja Exiles/Bar & Liquor Cabinets/Models/wine thin glass.fbx using Guid(09cb81f6ddeeb3046979371d041373b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78220ed0de0da8daf7c5b03b299dd4f5') in 0.082972 seconds
+  Import took 0.087983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/bottle_1.fbx
+  artifactKey: Guid(259d625e743c6b04dab654c686ce0c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/bottle_1.fbx using Guid(259d625e743c6b04dab654c686ce0c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe373ce882a633e5480d3f3df20c298') in 0.080804 seconds
+  Import took 0.084913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Models/props/autopsy_table.fbx
+  artifactKey: Guid(7abc69a455d45e844829398bf6780240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/autopsy_table.fbx using Guid(7abc69a455d45e844829398bf6780240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36454afa2ac85ae695f1c04895c4c534') in 0.083827 seconds
+  Import took 0.088390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/stone_3.fbx
+  artifactKey: Guid(9b2af6c1d80de5b4184c2b496f285045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/stone_3.fbx using Guid(9b2af6c1d80de5b4184c2b496f285045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7540959ad84375dc2130b7c91560811') in 0.054226 seconds
+  Import took 0.058449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Models/props/pencil.fbx
+  artifactKey: Guid(513ee5d0665f31347b2c4cefeac1df5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/pencil.fbx using Guid(513ee5d0665f31347b2c4cefeac1df5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffee73d4921f153e9041175f0e2dc69') in 0.103342 seconds
+  Import took 0.108241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/bottle_2.fbx
+  artifactKey: Guid(507f301aa7af60345bef43628cbe435c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/bottle_2.fbx using Guid(507f301aa7af60345bef43628cbe435c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87f628d3d3397cbf22445f05f6c5ea1') in 0.059210 seconds
+  Import took 0.064067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Low Poly Western Saloon/Components/Models/whiskey_bottle_1.fbx
+  artifactKey: Guid(c4ed4d2d54ced7645b7ccd9e2fa858ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Western Saloon/Components/Models/whiskey_bottle_1.fbx using Guid(c4ed4d2d54ced7645b7ccd9e2fa858ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a08066f70af772968e8eee6015787e') in 0.038469 seconds
+  Import took 0.046747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Models/props/steel_worktop.fbx
+  artifactKey: Guid(b8d30c9b6630c3f40a5f34be0b271cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/props/steel_worktop.fbx using Guid(b8d30c9b6630c3f40a5f34be0b271cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e37cbe99b996a271e9d65e49c3e95f') in 0.065166 seconds
+  Import took 0.072892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/washingmachine.FBX
+  artifactKey: Guid(984368fc25cdd6d479c5c53ec80d22f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/washingmachine.FBX using Guid(984368fc25cdd6d479c5c53ec80d22f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2672feea44b884dfc0b39c077d831eca') in 0.165348 seconds
+  Import took 0.171088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/DevDen Arch Viz Scotland/Meshes/bedroom_lamp_3.obj
+  artifactKey: Guid(3b32450d8da8f6742814016fe54e02bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DevDen Arch Viz Scotland/Meshes/bedroom_lamp_3.obj using Guid(3b32450d8da8f6742814016fe54e02bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6974c1d029a379231cfcbdac9c7a24') in 0.088115 seconds
+  Import took 0.092428 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\40120\Desktop\Role_playing_detective_game\New Unity Project (1)\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.7 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2386.
+Total: 5.577400 ms (FindLiveObjects: 0.427300 ms CreateObjectMapping: 0.173400 ms MarkObjects: 4.214300 ms  DeleteObjects: 0.759200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
