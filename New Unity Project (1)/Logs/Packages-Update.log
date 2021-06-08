@@ -67,3 +67,11 @@ The following packages were 已添加:
   com.unity.2d.sprite@1.0.0
   com.unity.2d.tilemap@1.0.0
   com.unity.xr.legacyinputhelpers@2.1.4
+
+=== Tue Jun  8 17:31:20 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ext.nunit@1.0.0
